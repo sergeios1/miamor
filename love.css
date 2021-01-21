@@ -35,7 +35,7 @@ body {
     transform: rotate(-90deg);
 }
 @font-face{
-    src: url(yes.ttf);
+    src: url(fonts/yes.ttf);
     font-family: yo;
 }
 
